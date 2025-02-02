@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Hai {
+public class Hai
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hai Git");
+
+    }
 }
