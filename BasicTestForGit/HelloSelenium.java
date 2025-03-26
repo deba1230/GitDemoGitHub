@@ -13,6 +13,7 @@ public class HelloSelenium
         WebDriver driver=new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.saucedemo.com");
+        System.out.println("Again pushed to repo");
 
     }
 }
